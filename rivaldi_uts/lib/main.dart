@@ -57,28 +57,28 @@ class MyHomePage extends StatelessWidget {
           ),
           ShoeCard(
             imageUrl:
-                'https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png',
+                "https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png",
             shoeName: 'Nike Air Zoom Pegasus',
             shoePrice: 150000, // harga dalam bentuk numerik (int/double)
             backgroundColor: const Color.fromARGB(255, 170, 212, 0)
                 .withOpacity(0.2), // Background cyan
           ),
           ShoeCard(
-            imageUrl: "https://example.com/path/to/image.jpg",
+            imageUrl: "https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png",
             shoeName: 'Nike ZoomX Vaporfly',
             shoePrice: 1000000, // harga dalam bentuk numerik (int/double)
             backgroundColor: Color.fromARGB(255, 24, 211, 198)
                 .withOpacity(0.2), // Background ungu lembut
           ),
           ShoeCard(
-            imageUrl: 'https://example.com/path/to/image.jpg',
+            imageUrl: "https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png",
             shoeName: 'Nike Air Force 1 S50',
             shoePrice: 1999900, // harga dalam bentuk numerik (int/double)
             backgroundColor: const Color.fromARGB(255, 170, 212, 0)
                 .withOpacity(0.2), // Background cyan
           ),
           ShoeCard(
-            imageUrl: "https://example.com/path/to/image.jpg",
+            imageUrl: "https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png",
             shoeName: 'Nike Waffle One',
             shoePrice: 1000000, // harga dalam bentuk numerik (int/double)
             backgroundColor: Color.fromARGB(255, 16, 170, 24)
